@@ -1,0 +1,14 @@
+@media only screen and(max-width: 600px) {
+
+} 
+@keyframes anima {
+    from {
+        transform: translateX(-300px);
+    } 
+    to {
+        transform: translateX(0px);
+    }
+}  
+.image1 {
+    border-radius: 36px;
+}

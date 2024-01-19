@@ -1,0 +1,273 @@
+@media only screen and(max-width: 600px) {
+
+}  
+@keyframes anima {
+    from {
+        transform: translateX(-300px);
+    } 
+    to {
+        transform: translateX(0px);
+    }
+} 
+.tausta1 {
+    background-color: gray; 
+    width: 2950px; 
+    height: 1000px; 
+    border-radius: 36px; 
+}  
+.image1 {
+    border-radius: 36px;
+} 
+.otsikko1 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 100px; 
+    margin-left: 400px; 
+} 
+.a1 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+} 
+.a2 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+} 
+.a3 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+} 
+.a4 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+} 
+.table1 {
+    margin-left: 400px;
+} 
+.tausta2 {
+    background-color: gray; 
+    width: 2950px; 
+    height: 1000px; 
+    border-radius: 36px; 
+}    
+.otsikko2 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 100px; 
+    margin-left: 400px; 
+} 
+.a5 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+}  
+.a6 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+}  
+.nimi1 {
+    color: green; 
+    transition: 2s; 
+} 
+.nimi1:hover {
+    opacity: 0.5; 
+} 
+.nimi2 {
+    color: green; 
+    transition: 2s; 
+} 
+.nimi2:hover {
+    opacity: 0.5; 
+} 
+.a7 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+}   
+.a8 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+}   
+.tausta3 {
+    background-color: gray; 
+    width: 2950px; 
+    height: 1000px; 
+    border-radius: 36px; 
+}   
+.a9 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+}   
+.a10 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+}    
+.a11 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+}    
+.a12 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+}     
+.otsikko3 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 100px; 
+    margin-left: 400px; 
+}  
+.otsikko4 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 100px; 
+    margin-left: 400px; 
+}  
+.tausta4 {
+    background-color: gray; 
+    width: 2950px; 
+    height: 1000px; 
+    border-radius: 36px; 
+}    
+.a13 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+}     
+.a14 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+}      
+.a15 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+}  
+.linkki1 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px;  
+    text-decoration: none;
+}       
+.linkki2 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+    text-decoration: none;
+}      
+.nappi1 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+    border-radius: 8px; 
+    background-color: gray; 
+    border-color: black; 
+}     
+.nappi2 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+    border-radius: 8px; 
+    background-color: gray; 
+    border-color: black; 
+}     
+.linkki3 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    margin-left: 400px; 
+    text-decoration: none;
+}      
+.tausta5 {
+    background-color: gray; 
+    width: 2950px; 
+    height: 1000px; 
+    border-radius: 36px; 
+}   
+.otsikko5 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 100px; 
+    margin-left: 400px; 
+}  
+.table1 {
+    margin-left: 400px;
+} 
